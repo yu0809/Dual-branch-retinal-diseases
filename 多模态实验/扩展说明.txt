@@ -1,0 +1,1 @@
+注意：ResNet50和Swin Transformer两者的设置略有不同，其余常用的模型如efficientnet、densenet、inceptionnet、mobilenet等设置方式以及npy大小调整与ResNet50完全一样，仅需改一下模型名字即可，可用于扩展更多实验，如需更多细节，欢迎联系yuhongjie@shu.edu.cn
